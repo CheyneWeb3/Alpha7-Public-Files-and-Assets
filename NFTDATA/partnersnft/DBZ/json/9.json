@@ -1,0 +1,31 @@
+{
+  "name": "Alpha7 Partnership DBZ #9",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+  "dna": "e4e4474dc0c97420076b4753c10ef23445b38ab3",
+  "edition": 9,
+  "date": 1712586723190,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "9"
+    },
+    {
+      "trait_type": "head",
+      "value": "4"
+    },
+    {
+      "trait_type": "body",
+      "value": "5"
+    },
+    {
+      "trait_type": "face",
+      "value": "7"
+    },
+    {
+      "trait_type": "accecories",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

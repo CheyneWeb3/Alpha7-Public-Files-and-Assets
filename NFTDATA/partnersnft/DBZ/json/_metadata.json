@@ -1,0 +1,6202 @@
+[
+  {
+    "name": "Alpha7 Partnership DBZ #1",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "fe517b77563d0246878641496ab9d6765dd36b90",
+    "edition": 1,
+    "date": 1712586720426,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #2",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "facf5f5ad1a4c0b8fe4cee7f4bfaee78771829c4",
+    "edition": 2,
+    "date": 1712586720779,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #3",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "52b44710840bd6d7c65e3022798b0b3ce5294baf",
+    "edition": 3,
+    "date": 1712586721153,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #4",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "c5b5524002c605b356aa9ec75031932ad8374133",
+    "edition": 4,
+    "date": 1712586721502,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #5",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "947c5938e2e3a627d7a2416f081d6142ea6779b1",
+    "edition": 5,
+    "date": 1712586721825,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #6",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "bef2e1d1731e8c1ab40d0d1995525ee50d956fd4",
+    "edition": 6,
+    "date": 1712586722176,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #7",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "b264cbc8594cc1219570cc952b7ee85a52cf9228",
+    "edition": 7,
+    "date": 1712586722505,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #8",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "c35b31e152cff820ad029d7d3655e7fa8a42ff22",
+    "edition": 8,
+    "date": 1712586722834,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #9",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "e4e4474dc0c97420076b4753c10ef23445b38ab3",
+    "edition": 9,
+    "date": 1712586723190,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #10",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "d96019f73c323eb588a7442ec67093747bff50f6",
+    "edition": 10,
+    "date": 1712586723536,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #11",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "322e69bf1525344128c26deec5f934b3150a43ea",
+    "edition": 11,
+    "date": 1712586723878,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #12",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "95a9f89bd17f2498cb3e9b14f16f999e20dad8e9",
+    "edition": 12,
+    "date": 1712586724194,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #13",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "480faaf40daa5f001f0fc562cafb91360abca7c1",
+    "edition": 13,
+    "date": 1712586724513,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #14",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "6421504f697dd67dfda501fa7ab87f4f6c7760d1",
+    "edition": 14,
+    "date": 1712586724858,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #15",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/partnersnft/DBZ/image/1.png",
+    "dna": "7d7cdd98600b4c500a9670e390eb191583d18726",
+    "edition": 15,
+    "date": 1712586725210,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #16",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/16.png",
+    "dna": "a163bbb6a897d0effb5574f240b9eb3a5b59995a",
+    "edition": 16,
+    "date": 1712586725584,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #17",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/17.png",
+    "dna": "b933beca5c1c3af89a3813cb2f109013f0da154c",
+    "edition": 17,
+    "date": 1712586725912,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #18",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/18.png",
+    "dna": "9ec74a99956d8289a4323c81bf8ba89b0df23777",
+    "edition": 18,
+    "date": 1712586726257,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #19",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/19.png",
+    "dna": "c7976abf06a4a652332008e2f33aa7be6428994d",
+    "edition": 19,
+    "date": 1712586726601,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #20",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/20.png",
+    "dna": "e99db9d48a13022e1c80b5de1ba88e875fbdeab3",
+    "edition": 20,
+    "date": 1712586726937,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #21",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/21.png",
+    "dna": "91a95a07966013dcda60898726c75755f9282bbe",
+    "edition": 21,
+    "date": 1712586727266,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #22",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/22.png",
+    "dna": "549ab971b558cdffcd583a3ffa11790c60641601",
+    "edition": 22,
+    "date": 1712586727596,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #23",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/23.png",
+    "dna": "d524e79c47cc6764562c5cd0f7e3cd8cbab72162",
+    "edition": 23,
+    "date": 1712586727943,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #24",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/24.png",
+    "dna": "d46023d62a83f73af375a88185656a801a749ae7",
+    "edition": 24,
+    "date": 1712586728320,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #25",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/25.png",
+    "dna": "fc4f5edd26d7f235ded227aeb03b1c4f262ae4df",
+    "edition": 25,
+    "date": 1712586728651,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #26",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/26.png",
+    "dna": "f8ee7831723ec7829eb1438f24633167c544a3ce",
+    "edition": 26,
+    "date": 1712586729010,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #27",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/27.png",
+    "dna": "aff7e09244d5d4e1a9fca59a77a5f87ba580405f",
+    "edition": 27,
+    "date": 1712586729344,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #28",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/28.png",
+    "dna": "4c33ac8e185d58c603b63686c7bc13d23f312a43",
+    "edition": 28,
+    "date": 1712586729711,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #29",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/29.png",
+    "dna": "cc859776803c16df67740bb726605aead57382ff",
+    "edition": 29,
+    "date": 1712586730087,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #30",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/30.png",
+    "dna": "b4679d7fda980af6304501301083967e37914899",
+    "edition": 30,
+    "date": 1712586730414,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #31",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/31.png",
+    "dna": "404cf665fad0a734992e245db361ac211051c93e",
+    "edition": 31,
+    "date": 1712586730759,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #32",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/32.png",
+    "dna": "68b45422bb767af53a123824ff8e8e668407cb97",
+    "edition": 32,
+    "date": 1712586731086,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #33",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/33.png",
+    "dna": "03623ab5436fd889b401ba84e10f2e0f1284f15d",
+    "edition": 33,
+    "date": 1712586731425,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #34",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/34.png",
+    "dna": "7e5a94002956cc617390c17243ae58d346e0e743",
+    "edition": 34,
+    "date": 1712586731784,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #35",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/35.png",
+    "dna": "6e4852bac323e264de6b6b20905475d5d58359e0",
+    "edition": 35,
+    "date": 1712586732119,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #36",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/36.png",
+    "dna": "456a40dd991a1393e5502225ee1a05fd955292d5",
+    "edition": 36,
+    "date": 1712586732467,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #37",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/37.png",
+    "dna": "485246bead120f956d05948bd77430a0cb86e2d4",
+    "edition": 37,
+    "date": 1712586732882,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #38",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/38.png",
+    "dna": "9abf518721498879b68082d0249ad593ed0b4333",
+    "edition": 38,
+    "date": 1712586733250,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #39",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/39.png",
+    "dna": "aa8d70dd4036255351d8797687f3229c14cc4b7c",
+    "edition": 39,
+    "date": 1712586733609,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #40",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/40.png",
+    "dna": "9f876f5ccf134e6bcccfe5fdb9b298890ab43eb0",
+    "edition": 40,
+    "date": 1712586733979,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #41",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/41.png",
+    "dna": "9e84eff1188480872b4b3d81b93adeaa000e8954",
+    "edition": 41,
+    "date": 1712586734332,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #42",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/42.png",
+    "dna": "3acea2a7b674984edbb811d1d6cd1ff17472c3c2",
+    "edition": 42,
+    "date": 1712586734697,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #43",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/43.png",
+    "dna": "6518881ba760870394d95f09bc4c02fbb15a13b7",
+    "edition": 43,
+    "date": 1712586735012,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #44",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/44.png",
+    "dna": "ab6b5815054109434b5c8b0dcfa6d62565bb7ce1",
+    "edition": 44,
+    "date": 1712586735386,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #45",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/45.png",
+    "dna": "1dae7cca1bcac23f076c739d0f7603ad80414ab6",
+    "edition": 45,
+    "date": 1712586735752,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #46",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/46.png",
+    "dna": "46c0141cc5b43af0169c37a7a631b8bbb65370b3",
+    "edition": 46,
+    "date": 1712586736114,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #47",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/47.png",
+    "dna": "a3685bff1ffc04a1021508769906967b7f8cbec4",
+    "edition": 47,
+    "date": 1712586736462,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #48",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/48.png",
+    "dna": "283ff3951f202fe8900d650890fd574f57fe6bbc",
+    "edition": 48,
+    "date": 1712586736822,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #49",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/49.png",
+    "dna": "5df7e645b69e916f8d8897d310b020c1daf3c2a0",
+    "edition": 49,
+    "date": 1712586737185,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #50",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/50.png",
+    "dna": "84fbe4ff4360989fa6caad03fe6193c61d22bf17",
+    "edition": 50,
+    "date": 1712586737535,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #51",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/51.png",
+    "dna": "c9545178be71f4d02cfed83e8c6287ca660e1c05",
+    "edition": 51,
+    "date": 1712586737872,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #52",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/52.png",
+    "dna": "7d03944e6b9b696cfd1ccad7045c55862df017d1",
+    "edition": 52,
+    "date": 1712586738230,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #53",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/53.png",
+    "dna": "b3fc1b184fcf6daac7f5eedce14db2632e4df81b",
+    "edition": 53,
+    "date": 1712586738577,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #54",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/54.png",
+    "dna": "577a2518d835554900082dc72779590db2fd38b6",
+    "edition": 54,
+    "date": 1712586738894,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #55",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/55.png",
+    "dna": "b361ab7411392e7747e755e2cfe51a66eedfd415",
+    "edition": 55,
+    "date": 1712586739250,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #56",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/56.png",
+    "dna": "37276e7c31a3caf591b6ac273dd105c68227786f",
+    "edition": 56,
+    "date": 1712586739599,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #57",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/57.png",
+    "dna": "e059a2333d054004cf1c3306359b6eb025bc8a5f",
+    "edition": 57,
+    "date": 1712586740005,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #58",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/58.png",
+    "dna": "ff462419eb28b16db510c35f2b9e5970717f8f4b",
+    "edition": 58,
+    "date": 1712586740369,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #59",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/59.png",
+    "dna": "efac69915c2c8131169da0d865f079e24f8b3c9d",
+    "edition": 59,
+    "date": 1712586740717,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #60",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/60.png",
+    "dna": "686b1347d2d775d1f15449f101c926ffcb898385",
+    "edition": 60,
+    "date": 1712586741102,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #61",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/61.png",
+    "dna": "73c367666658eb9e8ed58df18f8e4ce4fc877c4b",
+    "edition": 61,
+    "date": 1712586741449,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #62",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/62.png",
+    "dna": "3d37824841e073ff22d272d863964f1a6f8b3fae",
+    "edition": 62,
+    "date": 1712586741799,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #63",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/63.png",
+    "dna": "a1a2a40b8c8dfc1b9e829e967fa16acf041be0af",
+    "edition": 63,
+    "date": 1712586742168,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #64",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/64.png",
+    "dna": "2eb0ea9773bd4127152feced507091cde3591b6d",
+    "edition": 64,
+    "date": 1712586742497,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #65",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/65.png",
+    "dna": "2f2d9bf745c1f771f7936afbb07dc8498c15be0d",
+    "edition": 65,
+    "date": 1712586742841,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #66",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/66.png",
+    "dna": "c754fd8e112e3344dc5e32c537c0465ad7fe2cd9",
+    "edition": 66,
+    "date": 1712586743198,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #67",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/67.png",
+    "dna": "17497bbaa87aeef408b4c6b89efc961e89c1f48f",
+    "edition": 67,
+    "date": 1712586743565,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #68",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/68.png",
+    "dna": "834ac497ac05c71a2c06e2c2a2d9651186aa2b60",
+    "edition": 68,
+    "date": 1712586743924,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #69",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/69.png",
+    "dna": "83263dff63ffa65c5d4ad8458679b83f50bc44f9",
+    "edition": 69,
+    "date": 1712586744261,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #70",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/70.png",
+    "dna": "5bc50b33b6afa7229da89fbd569b51e7d5d7ea7f",
+    "edition": 70,
+    "date": 1712586744666,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #71",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/71.png",
+    "dna": "500ba13f0413f8dc267a71f9502c013563761679",
+    "edition": 71,
+    "date": 1712586744996,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #72",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/72.png",
+    "dna": "3ea1c5be093231c288f1419f7143ee71dfd333d8",
+    "edition": 72,
+    "date": 1712586745332,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #73",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/73.png",
+    "dna": "b6fde8f59dc25a39a1d087c903c5f9105fa8d301",
+    "edition": 73,
+    "date": 1712586745690,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #74",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/74.png",
+    "dna": "8f7a125146c00901323798f21c246c20596121bc",
+    "edition": 74,
+    "date": 1712586746061,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #75",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/75.png",
+    "dna": "8dc8b25ce2ad90d7fc52dbaf269de540d636d869",
+    "edition": 75,
+    "date": 1712586746406,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #76",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/76.png",
+    "dna": "7f3ddf3ead1989586a3f574e040892d3ffbaac7e",
+    "edition": 76,
+    "date": 1712586746758,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #77",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/77.png",
+    "dna": "a42cbba0cbf4f2ea5d2916452109eed841ee76bc",
+    "edition": 77,
+    "date": 1712586747104,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "1"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #78",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/78.png",
+    "dna": "efa28a8fc8a9135eb4166bcfa5fb74f78f091084",
+    "edition": 78,
+    "date": 1712586747453,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #79",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/79.png",
+    "dna": "443220e1d5947e3324c594da1968bf7a5cd93b2d",
+    "edition": 79,
+    "date": 1712586747799,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #80",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/80.png",
+    "dna": "3e7c08265553ffb2cc87cca6d183c44422458fa2",
+    "edition": 80,
+    "date": 1712586748112,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #81",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/81.png",
+    "dna": "e32eaf3f530865bc7b9ca507acf90911a5e100a3",
+    "edition": 81,
+    "date": 1712586748464,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #82",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/82.png",
+    "dna": "b57a3c6a31c6db7d9ea927d02d6df2797493162e",
+    "edition": 82,
+    "date": 1712586748827,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #83",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/83.png",
+    "dna": "afbe9a3f940f14b18baec065755dfe9e0ba42f58",
+    "edition": 83,
+    "date": 1712586749184,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #84",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/84.png",
+    "dna": "eeb82bed2e971115b0ec85fc4efaa24c36f35a02",
+    "edition": 84,
+    "date": 1712586749555,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #85",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/85.png",
+    "dna": "3950e13ddb39a599e966dffa998b8784b74a3828",
+    "edition": 85,
+    "date": 1712586749911,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #86",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/86.png",
+    "dna": "6fc9ffc67bb726d012687eac5ef4a35e0882aeb8",
+    "edition": 86,
+    "date": 1712586750238,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #87",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/87.png",
+    "dna": "8f95788a218a7a2f4f075fdf4febd9b0dd2a889f",
+    "edition": 87,
+    "date": 1712586750594,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #88",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/88.png",
+    "dna": "ae53b66f07cec96ae8dc7c1957def7e8994d8072",
+    "edition": 88,
+    "date": 1712586750915,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #89",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/89.png",
+    "dna": "b2b0bcc0827fc53980f9adad92ae7730d9fe4796",
+    "edition": 89,
+    "date": 1712586751291,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #90",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/90.png",
+    "dna": "90e032d45baea894b004292210e058bdadc91305",
+    "edition": 90,
+    "date": 1712586751655,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #91",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/91.png",
+    "dna": "ba8ac9260681c9d3a8dc87d885b8ab7029fa6c13",
+    "edition": 91,
+    "date": 1712586752030,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #92",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/92.png",
+    "dna": "784639dfbbc187a9115ca028bfa9a97b2f95abb3",
+    "edition": 92,
+    "date": 1712586752382,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #93",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/93.png",
+    "dna": "c7a37b1805f656f1682b531e52f007d898afa5dc",
+    "edition": 93,
+    "date": 1712586752733,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #94",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/94.png",
+    "dna": "83b20a992bd9fdc4df6c9573af561ebd6f15094f",
+    "edition": 94,
+    "date": 1712586753105,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #95",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/95.png",
+    "dna": "4dd4284c76b117c0f3c9b993c398bdff287f81e5",
+    "edition": 95,
+    "date": 1712586753443,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #96",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/96.png",
+    "dna": "f9c990f1d3c1397ce4ab0cb06183662fe2d197eb",
+    "edition": 96,
+    "date": 1712586753756,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #97",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/97.png",
+    "dna": "7ecdab65da2088e2e2ec09909c9577421f424117",
+    "edition": 97,
+    "date": 1712586754137,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "1"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #98",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/98.png",
+    "dna": "c62d8c1debca2cf6988943c421364d3cb15ed12e",
+    "edition": 98,
+    "date": 1712586754521,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #99",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/99.png",
+    "dna": "26d4a2fb1ce2d18fde52d449f95025b6e69903e2",
+    "edition": 99,
+    "date": 1712586754868,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #100",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/100.png",
+    "dna": "c0997dd2390b059112ed7def409d734a07e1b210",
+    "edition": 100,
+    "date": 1712586755211,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #101",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/101.png",
+    "dna": "3498a35243862ffe90a5fe99a336ec4b22fbf62e",
+    "edition": 101,
+    "date": 1712586755567,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #102",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/102.png",
+    "dna": "9eeb387a2c9fdf52faad7c22113f9c06ebe5dae1",
+    "edition": 102,
+    "date": 1712586755924,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #103",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/103.png",
+    "dna": "c55d8d45fd82770fc8b54b019a182abf1ca91bd5",
+    "edition": 103,
+    "date": 1712586756332,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #104",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/104.png",
+    "dna": "e5148c84f5400d1e36d2032ef9f26bfe037fb51c",
+    "edition": 104,
+    "date": 1712586756697,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #105",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/105.png",
+    "dna": "c19c20266dbcadc77844015112e27e4e03fd741a",
+    "edition": 105,
+    "date": 1712586757081,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #106",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/106.png",
+    "dna": "f37f0cb0f650aaa8c1a1eb202691f423cbd37fbd",
+    "edition": 106,
+    "date": 1712586757429,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #107",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/107.png",
+    "dna": "c7d9ba57d4bc0559545c143402430e6a73c6b0dc",
+    "edition": 107,
+    "date": 1712586757832,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #108",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/108.png",
+    "dna": "37bc0eb7423e42ee1516dee2c0f04a3aa19deb88",
+    "edition": 108,
+    "date": 1712586758181,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #109",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/109.png",
+    "dna": "0b2d7642e3b9349ccfa65bc1f6659d2a13d2e22d",
+    "edition": 109,
+    "date": 1712586758544,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #110",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/110.png",
+    "dna": "3551df84b7a97a5e4eab38754b65f6ae1b3ae103",
+    "edition": 110,
+    "date": 1712586758889,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #111",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/111.png",
+    "dna": "30075c160b45086640b194d683a60b5b83c6dee3",
+    "edition": 111,
+    "date": 1712586759289,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #112",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/112.png",
+    "dna": "602e42f476c7843650b5b4131c29ef02b8ff8b7b",
+    "edition": 112,
+    "date": 1712586759701,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #113",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/113.png",
+    "dna": "650e6c23966cb8b7eddc2dc86c8d48dba80f0bcb",
+    "edition": 113,
+    "date": 1712586760105,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #114",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/114.png",
+    "dna": "2235b13856a070bb8f581003d4ff47788837a36f",
+    "edition": 114,
+    "date": 1712586760493,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #115",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/115.png",
+    "dna": "2d772c1f9956e62074d0349dfd574907561fdd2d",
+    "edition": 115,
+    "date": 1712586760920,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #116",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/116.png",
+    "dna": "5a78c75574e5b713e76e06312046c59b204a7cf3",
+    "edition": 116,
+    "date": 1712586761343,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #117",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/117.png",
+    "dna": "a0f031e038dc194124a8832ad96503b0b501700f",
+    "edition": 117,
+    "date": 1712586761736,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #118",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/118.png",
+    "dna": "6e9cf42db639e7c87e3dd3371e94eb82ea03bea3",
+    "edition": 118,
+    "date": 1712586762146,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #119",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/119.png",
+    "dna": "d7e8475ea067e035eb2480015fa4ca40ef9fc453",
+    "edition": 119,
+    "date": 1712586762541,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #120",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/120.png",
+    "dna": "04dcc81a27a03c47476306554007754c744748ff",
+    "edition": 120,
+    "date": 1712586762985,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #121",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/121.png",
+    "dna": "2cd4d120bee9242cd2ceabac2c2574777796106f",
+    "edition": 121,
+    "date": 1712586763400,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #122",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/122.png",
+    "dna": "9a8a6993734168303c940dbe5ef99a17c9371179",
+    "edition": 122,
+    "date": 1712586763810,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #123",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/123.png",
+    "dna": "11b30872355e22aaac0bc497e736444ec2487e7b",
+    "edition": 123,
+    "date": 1712586764216,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #124",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/124.png",
+    "dna": "0fb97c496a18296ef18c8336ed78e113b72866d7",
+    "edition": 124,
+    "date": 1712586764618,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #125",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/125.png",
+    "dna": "4a4af0f4f1880ef2491a419680dd8a7f247d38da",
+    "edition": 125,
+    "date": 1712586765011,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #126",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/126.png",
+    "dna": "7001dd39731a9c62baf74e247a279e0957d4d53a",
+    "edition": 126,
+    "date": 1712586765428,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "1"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #127",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/127.png",
+    "dna": "c8f0394c7ebd27aefd707630b0d4082f70d8f389",
+    "edition": 127,
+    "date": 1712586765831,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #128",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/128.png",
+    "dna": "89713f915e02d627960e714bb6c835a7b80c7b44",
+    "edition": 128,
+    "date": 1712586766218,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #129",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/129.png",
+    "dna": "30eee7d548554fc3c5865bafe514540dccd6d3dc",
+    "edition": 129,
+    "date": 1712586766625,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #130",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/130.png",
+    "dna": "556bcb00d8d43d6119fb5db7e559c50b2a1eb65e",
+    "edition": 130,
+    "date": 1712586767031,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #131",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/131.png",
+    "dna": "f4a506178c6938167f73db0394f04f8a3f0eb01e",
+    "edition": 131,
+    "date": 1712586767422,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #132",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/132.png",
+    "dna": "d3ba037c7d9d4e051e8a0d53c08db336a151087d",
+    "edition": 132,
+    "date": 1712586767832,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #133",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/133.png",
+    "dna": "cb33bc42d022e263c63b5659ac6b43d5bde527c7",
+    "edition": 133,
+    "date": 1712586768221,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #134",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/134.png",
+    "dna": "9a70bffc0883e65ed11659ceb52c8db01b66d987",
+    "edition": 134,
+    "date": 1712586768673,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #135",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/135.png",
+    "dna": "582ac32f30f11302d6cc02f7aa5787fe188bb556",
+    "edition": 135,
+    "date": 1712586769065,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #136",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/136.png",
+    "dna": "ba56a68c3fab3c62d215bda5a05225b7724a05fc",
+    "edition": 136,
+    "date": 1712586769455,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #137",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/137.png",
+    "dna": "72c16faa55f976b5eebf67f8903de92fb35cd970",
+    "edition": 137,
+    "date": 1712586769862,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #138",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/138.png",
+    "dna": "e54d7d36a9e590b273c9479b76f210559176acec",
+    "edition": 138,
+    "date": 1712586770261,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #139",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/139.png",
+    "dna": "993bb5afc1ddfea24470d7799f6feb043e06b666",
+    "edition": 139,
+    "date": 1712586770666,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #140",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/140.png",
+    "dna": "0bec81e92a99f7bce5a1fa4db0c5bbf06331e110",
+    "edition": 140,
+    "date": 1712586771100,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #141",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/141.png",
+    "dna": "cdc21a93c28e6315f389f1912ac5c56aefd4e94c",
+    "edition": 141,
+    "date": 1712586771501,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #142",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/142.png",
+    "dna": "5c3ab3081ad4709d4ec2282f8a51824145eedfaa",
+    "edition": 142,
+    "date": 1712586771930,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #143",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/143.png",
+    "dna": "d75cffe775ef80365601c162506b192753563b52",
+    "edition": 143,
+    "date": 1712586772392,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #144",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/144.png",
+    "dna": "cd960b6a45bdda9e191317f5006335d382ec0f8f",
+    "edition": 144,
+    "date": 1712586772796,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #145",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/145.png",
+    "dna": "1d84d640cdeee5ceee17e2fa28424aef79a3b177",
+    "edition": 145,
+    "date": 1712586773215,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #146",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/146.png",
+    "dna": "3e74a8118b156394a5223ceb1f70bfd9d3b026c2",
+    "edition": 146,
+    "date": 1712586773602,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #147",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/147.png",
+    "dna": "496ea2e0338813739b7e7ac693ea4880889d3a17",
+    "edition": 147,
+    "date": 1712586774051,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #148",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/148.png",
+    "dna": "214f9369389322e125d7add45eeac2907ec4dd79",
+    "edition": 148,
+    "date": 1712586774462,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #149",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/149.png",
+    "dna": "dfa08befe327a06b994b4fb3d546a47db98ab3fe",
+    "edition": 149,
+    "date": 1712586774867,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #150",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/150.png",
+    "dna": "a7623c9ea31e0e313999dd717cef33f1116126fd",
+    "edition": 150,
+    "date": 1712586775274,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #151",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/151.png",
+    "dna": "12b7338d0c8abbab3ee6fbdcf696626b6180a8bb",
+    "edition": 151,
+    "date": 1712586775684,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #152",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/152.png",
+    "dna": "5c8f8f4e6153fd2023a2dca15e4f95106ae93699",
+    "edition": 152,
+    "date": 1712586776076,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #153",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/153.png",
+    "dna": "f901661c3cf3f8e31e8aa05908145c3881b0d10c",
+    "edition": 153,
+    "date": 1712586776458,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "1"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #154",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/154.png",
+    "dna": "37a7bbc8d0b598bcf19983a8df0c1842c3973738",
+    "edition": 154,
+    "date": 1712586776856,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #155",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/155.png",
+    "dna": "d2fdc7c249837bd256ef842574ef4ee5b2b760bd",
+    "edition": 155,
+    "date": 1712586777264,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #156",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/156.png",
+    "dna": "562d0f8e375de3594bae14026ac7b19bfcea9c13",
+    "edition": 156,
+    "date": 1712586777656,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #157",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/157.png",
+    "dna": "32dc7019c63b0fef9581d57264a8a33caff791b7",
+    "edition": 157,
+    "date": 1712586778054,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #158",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/158.png",
+    "dna": "a609064954237e6e036b4f95ca54800c4ae9a18e",
+    "edition": 158,
+    "date": 1712586778478,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #159",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/159.png",
+    "dna": "9f458440f7b8b67ebf36111bea8df5860b44fcba",
+    "edition": 159,
+    "date": 1712586778902,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #160",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/160.png",
+    "dna": "7343aea881faa961b19ddcc890464181400910eb",
+    "edition": 160,
+    "date": 1712586779285,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #161",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/161.png",
+    "dna": "46f4fafe1c90e177ecbd77c3f243d9f1f4653fa4",
+    "edition": 161,
+    "date": 1712586779685,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #162",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/162.png",
+    "dna": "cf05cf421f596f7cd21f29fb338817c385018646",
+    "edition": 162,
+    "date": 1712586780058,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "2"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #163",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/163.png",
+    "dna": "15f880eb650b18b967667d3c6bfd3f9b0626e020",
+    "edition": 163,
+    "date": 1712586780518,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #164",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/164.png",
+    "dna": "2cdc34ac3f1b184c83c724eeb2a9c73b14056b8e",
+    "edition": 164,
+    "date": 1712586780973,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #165",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/165.png",
+    "dna": "4f71153f67a01575b43d42d3d999d33663f8a8b4",
+    "edition": 165,
+    "date": 1712586781368,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #166",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/166.png",
+    "dna": "a018f49ab0eb01a3b0a2b5473b59602b1ac1e65a",
+    "edition": 166,
+    "date": 1712586781796,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #167",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/167.png",
+    "dna": "c784d3892059248ff5c023260a7e5b53a241aa3f",
+    "edition": 167,
+    "date": 1712586782185,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #168",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/168.png",
+    "dna": "0f39f502564df18af52bb7ac241dbcf67a3c95c7",
+    "edition": 168,
+    "date": 1712586782585,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #169",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/169.png",
+    "dna": "ed682f97b10acd31307e20e29aae64ea5f86a10c",
+    "edition": 169,
+    "date": 1712586783012,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #170",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/170.png",
+    "dna": "afb5a18bb3724f541408b78fe4ee3f8ea9945e81",
+    "edition": 170,
+    "date": 1712586783413,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #171",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/171.png",
+    "dna": "434a58701ee27f0520bb9e0b855cdcb46837001d",
+    "edition": 171,
+    "date": 1712586783824,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "6"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #172",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/172.png",
+    "dna": "2cfb5afc2a27cc967795d63023a772bcc09444a9",
+    "edition": 172,
+    "date": 1712586784238,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #173",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/173.png",
+    "dna": "92c5f6a39bf1ccdf7ec5a5560d5e3738dc01ef81",
+    "edition": 173,
+    "date": 1712586784635,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #174",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/174.png",
+    "dna": "3f5383d33e88ff21430d5d654359b348ed2535a2",
+    "edition": 174,
+    "date": 1712586785042,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #175",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/175.png",
+    "dna": "4341bae08d2f2d975f9a3fba133b535b8ada80c6",
+    "edition": 175,
+    "date": 1712586785444,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #176",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/176.png",
+    "dna": "759f8d2e88e2a5d9c0ad0fe6c6e847da16e79fce",
+    "edition": 176,
+    "date": 1712586785913,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #177",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/177.png",
+    "dna": "62359dae0314cc7dc445a970054c64363669555c",
+    "edition": 177,
+    "date": 1712586786343,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #178",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/178.png",
+    "dna": "c9ee92c0a1eb404a95d9c2020ebe3823baec1910",
+    "edition": 178,
+    "date": 1712586786750,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #179",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/179.png",
+    "dna": "611e794f759c9ef9468b0d2aba7dc072521c9712",
+    "edition": 179,
+    "date": 1712586787212,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "6"
+      },
+      {
+        "trait_type": "face",
+        "value": "4"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #180",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/180.png",
+    "dna": "776f214df279cfe55f0fa2bda556039ce669d759",
+    "edition": 180,
+    "date": 1712586787682,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #181",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/181.png",
+    "dna": "cb5f66a2dda875e9df71bc8402c1062094654e19",
+    "edition": 181,
+    "date": 1712586788116,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #182",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/182.png",
+    "dna": "10698c2befd879c8a0162c1dfa69bf3d3cf1a80d",
+    "edition": 182,
+    "date": 1712586788532,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #183",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/183.png",
+    "dna": "fc80cddc1d70eb65ac6e0346fdf47c7a0f710856",
+    "edition": 183,
+    "date": 1712586788955,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "7"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #184",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/184.png",
+    "dna": "fe2e6528c9a131da2a1d57263dca55b664a74bdb",
+    "edition": 184,
+    "date": 1712586789407,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #185",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/185.png",
+    "dna": "a55eba8e6a5232a2315946bfad719ead4aec97cc",
+    "edition": 185,
+    "date": 1712586789805,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #186",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/186.png",
+    "dna": "ab0ebdc3a4e6c7166dce39dd08695c7062e51539",
+    "edition": 186,
+    "date": 1712586790210,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "3"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #187",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/187.png",
+    "dna": "4fca929087b774ac79e30740a60f455c98c9e524",
+    "edition": 187,
+    "date": 1712586790633,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #188",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/188.png",
+    "dna": "064923dd2e44ea469623a29f8a76e946c84ca36c",
+    "edition": 188,
+    "date": 1712586791043,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "1"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #189",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/189.png",
+    "dna": "f88f0ddd19d7b444c5ad3be560ec5a98f4870afb",
+    "edition": 189,
+    "date": 1712586791439,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "5"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #190",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/190.png",
+    "dna": "c20a956a186523a7fa42cebd78b12194c67f4e31",
+    "edition": 190,
+    "date": 1712586791885,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "4"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #191",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/191.png",
+    "dna": "fc16d99debc844d5a28b45558f4d8b5f43626e15",
+    "edition": 191,
+    "date": 1712586792307,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #192",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/192.png",
+    "dna": "03cdfeac02011f91cf2386d4daeecc29d723a176",
+    "edition": 192,
+    "date": 1712586792708,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "2"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #193",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/193.png",
+    "dna": "a1f07b0ce537cec9434a841067949308bee5dbc0",
+    "edition": 193,
+    "date": 1712586793161,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #194",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/194.png",
+    "dna": "f3d1c0c690f295133852852748150356b9d2f723",
+    "edition": 194,
+    "date": 1712586793616,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #195",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/195.png",
+    "dna": "cff114914147d93ed400ceff04291a692d052385",
+    "edition": 195,
+    "date": 1712586794053,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "7"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #196",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/196.png",
+    "dna": "41e3e3890dd0ea98781400579d1d0a7e94999f67",
+    "edition": 196,
+    "date": 1712586794456,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "4"
+      },
+      {
+        "trait_type": "head",
+        "value": "3"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #197",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/197.png",
+    "dna": "ab46370255d5270047d340651815ce2c74d292cc",
+    "edition": 197,
+    "date": 1712586794843,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "9"
+      },
+      {
+        "trait_type": "head",
+        "value": "2"
+      },
+      {
+        "trait_type": "body",
+        "value": "3"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #198",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/198.png",
+    "dna": "3268c3dddcc6f4e0c5da94397abb13564cbb8fe8",
+    "edition": 198,
+    "date": 1712586795248,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "3"
+      },
+      {
+        "trait_type": "head",
+        "value": "5"
+      },
+      {
+        "trait_type": "body",
+        "value": "5"
+      },
+      {
+        "trait_type": "face",
+        "value": "7"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #199",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/199.png",
+    "dna": "edf36622e7390f8ac22225d42b1279c2e0d9dfa1",
+    "edition": 199,
+    "date": 1712586795663,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "6"
+      },
+      {
+        "trait_type": "head",
+        "value": "8"
+      },
+      {
+        "trait_type": "body",
+        "value": "4"
+      },
+      {
+        "trait_type": "face",
+        "value": "2"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Alpha7 Partnership DBZ #200",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/200.png",
+    "dna": "4c0d3e04a33ad70aa5a60f901960506320213049",
+    "edition": 200,
+    "date": 1712586796125,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "8"
+      },
+      {
+        "trait_type": "head",
+        "value": "1"
+      },
+      {
+        "trait_type": "body",
+        "value": "7"
+      },
+      {
+        "trait_type": "face",
+        "value": "5"
+      },
+      {
+        "trait_type": "accecories",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

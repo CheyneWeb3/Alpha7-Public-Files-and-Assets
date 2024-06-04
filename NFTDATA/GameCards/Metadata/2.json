@@ -1,0 +1,27 @@
+{
+  "name": "City Turf Blocks 1 of 144 AlphaDawgz",
+  "description": "This Card is 1 Block of 144 Total Blocks for AlphaDawgz City! Team holding the most turf in the city",
+  "image": "https://raw.githubusercontent.com/ArielRin/alpha7mint/day-12/NFTDATA/GameCards/Image/turfslum.png",
+  "dna": "a0000200006a439870fc37861e231f65",
+  "edition": 2,
+  "date": 1710827625,
+  "attributes": [
+    {
+      "trait_type": "GameCard",
+      "value": "City Turf 1 piece of 144 total city blocks"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Alpha7"
+    },
+    {
+      "trait_type": "Uses",
+      "value": "This Card is 1 Block of 144 Total Blocks for AlphaDawgz City Turf Wars!"
+    },
+    {
+      "trait_type": "Conditions",
+      "value": "Owner Has claimed a block of turf!"
+    }
+  ],
+  "compiler": "Alpha7 Art Engine"
+}

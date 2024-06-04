@@ -1,0 +1,31 @@
+{
+  "name": "Alpha7 Partnership DBZ #33",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/ArielRin/Trump-The-Hedgehog/master/build/images/33.png",
+  "dna": "03623ab5436fd889b401ba84e10f2e0f1284f15d",
+  "edition": 33,
+  "date": 1712586731425,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "9"
+    },
+    {
+      "trait_type": "head",
+      "value": "7"
+    },
+    {
+      "trait_type": "body",
+      "value": "7"
+    },
+    {
+      "trait_type": "face",
+      "value": "3"
+    },
+    {
+      "trait_type": "accecories",
+      "value": "4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
