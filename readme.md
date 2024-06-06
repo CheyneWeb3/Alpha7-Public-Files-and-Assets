@@ -21,9 +21,10 @@ In **"That Damn Dawg!"**, gameplay is simple yet exhilarating. Choose to create 
 - **Man** yells at the **Dawg** (Man beats the Dawg)
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/DawgBeatsHole.png" alt="The Dawg" width="200"/>
+   <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/ManBeatsDawg.png" alt="The Man" width="200"/>
   <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/HoleBeatsMan.png" alt="The Hole" width="200"/>
-  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/ManBeatsDawg.png" alt="The Man" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/DawgBeatsHole.png" alt="The Dawg" width="200"/>
+
 </div>
 
 ### Game Options
