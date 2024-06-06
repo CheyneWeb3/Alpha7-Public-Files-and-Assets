@@ -1,6 +1,6 @@
 # Aplha7 Presents - "That Damn Dawg!"
 
-![That Damn Dawg](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/Banner.png)
+![That Damn Dawg](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/BannerSml.png)
 
 ## Welcome to "That Damn Dawg!" - The Ultimate Competitive Game on the Blockchain
 
@@ -21,7 +21,7 @@ In **"That Damn Dawg!"**, gameplay is simple yet exhilarating. Choose to create 
 - **Man** yells at the **Dawg** (Man beats the Dawg)
 
 
-![The Dawg](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/DawgBeatsHole.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/HoleBeatsMan.png) ![The Man](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/ManBeatsDawg.png)
+![The Dawg](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/DawgBeatsHole.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/HoleBeatsMan.png) ![The Man](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/ManBeatsDawg.png)
 ### Game Options
 
 We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, offering three main game elements for you to choose from:
@@ -31,7 +31,7 @@ We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, o
 3. **The Man**
 
 
-![The Dawg](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/TheDawg.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/TheHole.png) ![The Man](https://raw.githubusercontent.com/ArielRin/A7Claim/master/src/Components/NFTViewer/Imagesforgithub/TheMan.png)
+![The Dawg](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheDawg.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheHole.png) ![The Man](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheMan.png)
 
 Each element has its strengths and weaknesses, creating a balanced and engaging experience for all players. Choose wisely and outsmart your opponents to claim victory!
 
