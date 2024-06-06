@@ -62,8 +62,3 @@ Prove your strategic prowess and see if you can outsmart your opponents in **"Th
 
 ---
 
-<div style="text-align: center;">
-  <img src="path_to_image1.png" alt="Image 1" width="200"/>
-  <img src="path_to_image2.png" alt="Image 2" width="200"/>
-  <img src="path_to_image3.png" alt="Image 3" width="200"/>
-</div>
