@@ -31,9 +31,9 @@ In **"That Damn Dawg!"**, gameplay is simple yet exhilarating. Choose to create 
 
 We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, offering three main game elements for you to choose from:
 
-1. **The Dawg**
+1. **The Man**
 2. **The Hole**
-3. **The Man**
+3. **The Dawg**
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheMan.png" alt="The Man" width="200"/>
