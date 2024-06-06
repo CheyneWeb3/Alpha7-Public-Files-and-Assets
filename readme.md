@@ -36,9 +36,9 @@ We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, o
 3. **The Man**
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheDawg.png" alt="The Dawg" width="200"/>
-  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheHole.png" alt="The Hole" width="200"/>
   <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheMan.png" alt="The Man" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheHole.png" alt="The Hole" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheDawg.png" alt="The Dawg" width="200"/>
 </div>
 
 Each element has its strengths and weaknesses, creating a balanced and engaging experience for all players. Choose wisely and outsmart your opponents to claim victory!
