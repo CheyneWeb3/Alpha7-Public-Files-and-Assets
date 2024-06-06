@@ -20,8 +20,12 @@ In **"That Damn Dawg!"**, gameplay is simple yet exhilarating. Choose to create 
 - **Man** falls into the **Hole** (Hole beats the Man)
 - **Man** yells at the **Dawg** (Man beats the Dawg)
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/DawgBeatsHole.png" alt="The Dawg" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/HoleBeatsMan.png" alt="The Hole" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/ManBeatsDawg.png" alt="The Man" width="200"/>
+</div>
 
-![The Dawg](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/DawgBeatsHole.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/HoleBeatsMan.png) ![The Man](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/ManBeatsDawg.png)
 ### Game Options
 
 We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, offering three main game elements for you to choose from:
@@ -30,8 +34,11 @@ We’ve designed **"That Damn Dawg!"** with simplicity and excitement in mind, o
 2. **The Hole**
 3. **The Man**
 
-
-![The Dawg](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheDawg.png) ![The Hole](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheHole.png) ![The Man](https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheMan.png)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheDawg.png" alt="The Dawg" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheHole.png" alt="The Hole" width="200"/>
+  <img src="https://raw.githubusercontent.com/ArielRin/Alpha7-Public-Files-and-Assets/master/thatdamnDawg/Imagesforgithub/TheMan.png" alt="The Man" width="200"/>
+</div>
 
 Each element has its strengths and weaknesses, creating a balanced and engaging experience for all players. Choose wisely and outsmart your opponents to claim victory!
 
@@ -55,4 +62,8 @@ Prove your strategic prowess and see if you can outsmart your opponents in **"Th
 
 ---
 
-![Image 1](path_to_image1.png) ![Image 2](path_to_image2.png) ![Image 3](path_to_image3.png)
+<div style="text-align: center;">
+  <img src="path_to_image1.png" alt="Image 1" width="200"/>
+  <img src="path_to_image2.png" alt="Image 2" width="200"/>
+  <img src="path_to_image3.png" alt="Image 3" width="200"/>
+</div>
