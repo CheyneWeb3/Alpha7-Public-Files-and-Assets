@@ -85,7 +85,7 @@ A draw occurs when both players choose the same move (Man, Hole, or Dawg). In th
 
 ### 3. Claiming a Win Due to Abandonment
 
-In case of a Draw, Where if one player fails to make their move within 48 hours, the other player can claim the win due to a draw abandonment. This ensures that games with draws do not remain in an unresolved state indefinitely. Or players who play under the belt and fail to submit thier redraw move for nefaris actions, with the possibility of being blacklisted in futureThat Damn Dawg! gameplay.
+In case of a Draw, Where if one player fails to make their move within 48 hours, the other player can claim the win due to a draw abandonment. This ensures that games with draws do not remain in an unresolved state indefinitely. Or players who play under the belt and fail to submit thier redraw move for nefaris actions, with the possibility of being blacklisted in future That Damn Dawg! gameplay.
 
 ---
 
