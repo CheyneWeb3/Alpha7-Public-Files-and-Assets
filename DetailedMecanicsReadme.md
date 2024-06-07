@@ -419,19 +419,6 @@ function cancelGame(uint256 gameId) external onlyOwner gameExists(gameId) nonRee
 }
 ```
 
-### 10. Recovering ETH
-
-The `recoverETH` function allows the owner to recover a specified amount of ETH from the contract:
-
-```solidity
-function recoverETH(uint256 amount) external onlyOwner {
-    // Ensure the amount to recover is not more than the contract's balance
-    require(amount <= address(this).balance, "Insufficient balance");
-    // Transfer the specified amount to the owner
-    payable(owner).transfer(amount);
-}
-```
-
 
 ## Conclusion
 
