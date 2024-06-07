@@ -93,7 +93,7 @@ In case of a Draw, Where if one player fails to make their move within 48 hours,
 
 ### 1. Calculating Rewards
 
-The winner of a game receives the total bet amount minus a small battle fee (percentage of the bet amount). For example, if the bet amount is 1 ETH and the battle fee is 5%, the winner receives 1.9 ETH (total bet amount minus the battle fee).
+The winner of a game receives the total bet amount minus a small battle fee (percentage of the bet amount). For example, if the bet amount is 1 ETH and the battle fee is 7%, the winner receives 1.86 ETH (total bet amount minus the battle fee). or 1.86:1. (Rates adjustable by alpha7 Dev Team based on community uptake and gameplay).
 
 ### 2. Claiming Rewards
 
