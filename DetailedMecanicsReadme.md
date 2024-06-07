@@ -3,6 +3,19 @@
 Welcome to the That Damn Dawg! Decentralized Application (DApp)! This comprehensive manual will guide you through the process of playing the game, understanding how wins are finalized, how winnings are paid, and how the draw mechanism works. Additionally, we will provide a detailed explanation of the mechanics and functions of the contract.
 
 ---
+#### Think Rock, Paper, Scissors, otherwise known as RoShamBo. Now with That Damn Dawg! We Have The Dawg, The Man, The Hole!
+
+## Introduction
+
+### A Unique Player Vs Player Ro-Sham-Bo Style Web3 Game.
+
+Compete, strategize, and dominate in "That Damn Dawg!", a thrilling blockchain game where you can challenge other players, create your own games, and prove your dominance.
+
+### The Legend Behind "That Damn Dawg!"
+
+In a quiet suburban neighborhood, there was a mischievous dawg known for digging holes everywhere. One sunny afternoon, the dawg decided to dig a hole in the front yard of a particularly clumsy man. As the dawg dug, the man, not paying attention, walked right into the hole, falling with a thud.
+
+Covered in dirt and embarrassed, the man looked up to see the dawg peering over the edge. "That damn dawg!" he yelled, shaking his fist. The neighbors couldn't help but laugh at the scene. This little incident inspired the creation of "That Damn Dawg!", where you can relive the fun and outsmart your opponents.
 
 ## How to Play
 
