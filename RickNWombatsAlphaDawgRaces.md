@@ -1,5 +1,5 @@
 
-# Alpha7 Dawg Race
+# Rick N Wombats AlphaDawg Racing Dapp for Alpha7 Token
 
 Welcome to the Alpha7 Dawg Race, an exciting blockchain-based platform where you can participate in thrilling races, compete for fantastic prizes, and enjoy a fair and transparent gaming environment.
 
