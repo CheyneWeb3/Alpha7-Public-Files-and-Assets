@@ -16,7 +16,7 @@ The `SubscriptionService` smart contract is designed to manage user subscription
    - `operationsPercentage`: The percentage of the subscription fees that goes to the operations wallet.
 
 2. **Registering a User:**
-   Users can register by providing a username, telegram handle, referrer's username, TV type, model number, and TV code.
+   Users can register by providing a username, telegram handle and referrer's username.
 
 3. **Starting a Subscription:**
    Users can start their subscription by paying the monthly cost. Optionally, they can use a discount code to get a discount on the subscription fee.
