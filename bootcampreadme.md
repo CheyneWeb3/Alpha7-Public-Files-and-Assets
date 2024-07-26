@@ -25,7 +25,7 @@ The `SubscriptionService` smart contract is designed to manage user subscription
    Users can renew their subscription for 1 to 12 months by paying the corresponding fee. A discount code can also be applied.
 
 5. **Updating User Details:**
-   Users can update their TV type, model number, and TV code.
+   Users can update their account details.
 
 6. **Managing Discount Codes:**
    The contract owner can add, update, and remove discount codes.
@@ -35,11 +35,11 @@ The `SubscriptionService` smart contract is designed to manage user subscription
 ### Contract Overview
 
 The `SubscriptionService` contract is built with several key functionalities:
-- **User Registration**: Allows users to register with a username, telegram handle, TV details, and a referrer.
+- **User Registration**: Allows users to register with a username, telegram handle,  and a referrer.
 - **Subscription Management**: Users can start and renew subscriptions, with payments distributed between treasury and operations wallets.
 - **Referral System**: Users can earn referral rewards when they refer new users.
 - **Discount Codes**: Users can use discount codes to get a discount on subscription fees.
-- **User Management**: Users can update their TV details, and the owner can manage discount codes.
+- **User Management**: Users can update their account details, and the owner can manage discount codes.
 
 ### Contract Functions
 
@@ -53,10 +53,7 @@ The `SubscriptionService` contract is built with several key functionalities:
     - `_username`: The username of the user.
     - `_telegram`: The telegram handle of the user.
     - `referrerUsername`: The username of the referrer.
-    - `_tvType`: The type of the user's TV.
-    - `_modelNumber`: The model number of the user's TV.
-    - `_tvCode`: The TV code.
-
+    - 
 #### Subscription Management
 
 - **startSubscription**: Starts a subscription for the user.
@@ -73,18 +70,6 @@ The `SubscriptionService` contract is built with several key functionalities:
   - Parameters:
     - `months`: The number of months to renew the subscription.
     - `discountCode`: (Optional) A discount code to get a discount on the subscription fee.
-
-#### User Management
-
-- **updateUserDetails**: Updates the user's TV details.
-  ```solidity
-  function updateUserDetails(string memory _tvType, string memory _modelNumber, string memory _tvCode) external onlyRegistered
-  ```
-
-- **updateUserDetailsByOwner**: Updates the user's TV details by the owner or the user.
-  ```solidity
-  function updateUserDetailsByOwner(address _user, string memory _tvType, string memory _modelNumber, string memory _tvCode) external onlyOwnerOrUser(_user)
-  ```
 
 #### Referral Management
 
