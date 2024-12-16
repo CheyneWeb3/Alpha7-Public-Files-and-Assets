@@ -29,10 +29,9 @@
     - [Finalizing Races](#63-finalizing-races)
     - [Claiming Winnings](#64-claiming-winnings)
     - [Participating in Trifecta](#65-participating-in-trifecta)
-7. [Roadmap](#7-roadmap)
-8. [Team](#8-team)
-9. [Conclusion](#9-conclusion)
-10. [Disclaimer](#10-disclaimer)
+
+7. [Conclusion](#9-conclusion)
+8. [Disclaimer](#10-disclaimer)
 
 ---
 
@@ -169,79 +168,22 @@ The **TabbyWomBatRaceBetting** smart contract is structured with modular compone
 3. **Await Finalization:** After race finalization, if your trifecta prediction matches the winners, proceed to claim your jackpot share.
 4. **Claim Trifecta Winnings:** Navigate to the trifecta winnings section and claim your share based on the jackpot.
 
----
 
-## 7. Roadmap
 
-| **Phase** | **Milestones**                                | **Timeline**         |
-|-----------|-----------------------------------------------|----------------------|
-| **1.0**   | - Smart Contract Development<br>- Initial Testing<br>- Deployment on Testnet | Q1 2024 |
-| **2.0**   | - Front-End Development<br>- Integration with Wallets<br>- Community Building | Q2 2024 |
-| **3.0**   | - Launch on Mainnet<br>- Marketing Campaigns<br>- Partnership with Racing Events | Q3 2024 |
-| **4.0**   | - Implement Advanced Features (e.g., Multi-Operator Roles)<br>- Continuous Security Audits | Q4 2024 |
-| **5.0**   | - Expansion to Other Blockchains<br>- Introduction of Additional Betting Markets | Q1 2025 |
-
----
-
-## 8. Team
-
-| **Name** | **Role** | **Expertise** |
-|----------|----------|----------------|
-| Alice Smith | CEO & Founder | Blockchain Development, Strategic Planning |
-| Bob Johnson | CTO | Smart Contract Development, Security Auditing |
-| Carol Davis | Lead Developer | Solidity, Front-End Integration |
-| David Wilson | Marketing Lead | Community Building, Digital Marketing |
-| Eve Martinez | Operations Manager | Project Management, Operations Strategy |
-
-*Note: The team members listed are fictional and for illustrative purposes only.*
-
----
-
-## 9. Conclusion
+## 7. Conclusion
 
 **TabbyWomBatRaceBetting** aims to revolutionize the betting landscape by offering a decentralized, transparent, and secure platform for race enthusiasts and bettors. By leveraging blockchain technology and integrating advanced features like trifecta jackpots and sponsor boosts, we provide users with an engaging and trustworthy betting experience. Our commitment to security, transparency, and user satisfaction positions us as a leader in the decentralized betting ecosystem.
 
 ---
 
-## 10. Disclaimer
+## 8. Disclaimer
 
 This whitepaper is for informational purposes only and does not constitute financial or legal advice. Investing in smart contracts and participating in betting carries inherent risks. Users should perform their own due diligence and consult with professionals before engaging with the **TabbyWomBatRaceBetting** platform. The team is not liable for any losses or damages incurred from using this contract.
 
 ---
 
-# Converting the Whitepaper to DOCX
-
-To convert this whitepaper into a `.docx` file, follow these steps:
-
-1. **Using Microsoft Word:**
-    - **Copy and Paste:** Select the entire whitepaper content above and copy it.
-    - **Open Word:** Open Microsoft Word and create a new document.
-    - **Paste Content:** Paste the copied content into the document.
-    - **Format:** Adjust headings, bullet points, tables, and other formatting elements as needed.
-    - **Save as DOCX:** Save the document in `.docx` format by selecting "File > Save As" and choosing the `.docx` extension.
-
-2. **Using Google Docs:**
-    - **Copy and Paste:** Copy the whitepaper content.
-    - **Open Google Docs:** Navigate to [Google Docs](https://docs.google.com/) and create a new document.
-    - **Paste Content:** Paste the content into the document.
-    - **Format:** Adjust the formatting to ensure consistency and readability.
-    - **Download as DOCX:** Click on "File > Download > Microsoft Word (.docx)" to save the whitepaper as a DOCX file.
-
-3. **Using Online Markdown to DOCX Converters:**
-    - **Markdown Conversion:** If the whitepaper was initially created in Markdown, use online tools like [Dillinger](https://dillinger.io/) or [Pandoc](https://pandoc.org/) to convert Markdown to DOCX.
-    - **Direct Upload:** Some converters allow you to paste text and directly download the DOCX version.
-
-4. **Using Command-Line Tools:**
-    - **Pandoc Installation:** Install Pandoc from [here](https://pandoc.org/installing.html).
-    - **Conversion Command:** Save the whitepaper content in a `.md` file (e.g., `whitepaper.md`) and use the following command:
-      ```bash
-      pandoc -o whitepaper.docx whitepaper.md
-      ```
-
----
 
 # Final Notes
 
 This whitepaper provides a comprehensive overview of the **TabbyWomBatRaceBetting** smart contract, detailing its functionalities, security measures, economic model, and user interactions. By following the outlined recommendations and adhering to best practices, the platform is poised to offer a secure and engaging betting experience on the blockchain.
 
-For further inquiries, collaborations, or support, please contact our team at [contact@tabbywombatracebetting.com](mailto:contact@tabbywombatracebetting.com).
