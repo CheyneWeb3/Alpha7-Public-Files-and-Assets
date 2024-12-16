@@ -1,38 +1,5 @@
 # TabbyWomBatRaceBetting Whitepaper
 
-**Written By:** C.Hayworth
-**Date:** 12/16/2024 10:51pm
----
-
-## Table of Contents
-
-1. [Abstract](#1-abstract)
-2. [Introduction](#2-introduction)
-3. [Problem Statement](#3-problem-statement)
-4. [Solution](#4-solution)
-5. [Key Features](#5-key-features)
-    - [5.1 Race Management](#51-race-management)
-    - [5.2 Betting Mechanism](#52-betting-mechanism)
-    - [5.3 Trifecta Jackpot System](#53-trifecta-jackpot-system)
-    - [5.4 Sponsor Boosts](#54-sponsor-boosts)
-    - [5.5 Claim System](#55-claim-system)
-    - [5.6 Administrative Controls](#56-administrative-controls)
-6. [Technical Architecture](#6-technical-architecture)
-    - [6.1 Smart Contract Structure](#61-smart-contract-structure)
-    - [6.2 Security Measures](#62-security-measures)
-    - [6.3 Price Feed Integration](#63-price-feed-integration)
-7. [Economic Model](#7-economic-model)
-    - [7.1 Fund Allocation](#71-fund-allocation)
-    - [7.2 Jackpot Distribution](#72-jackpot-distribution)
-8. [Security Considerations](#8-security-considerations)
-    - [8.1 Reentrancy Protection](#81-reentrancy-protection)
-    - [8.2 Access Control](#82-access-control)
-    - [8.3 Ether Transfers](#83-ether-transfers)
-    - [8.4 Denial of Service (DoS) Mitigation](#84-denial-of-service-dos-mitigation)
-9. [Roadmap](#9-roadmap)
-10. [Conclusion](#11-conclusion)
-11. [Disclaimer](#12-disclaimer)
-
 ---
 
 ## 1. Abstract
