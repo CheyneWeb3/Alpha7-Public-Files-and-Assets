@@ -30,9 +30,8 @@
     - [8.3 Ether Transfers](#83-ether-transfers)
     - [8.4 Denial of Service (DoS) Mitigation](#84-denial-of-service-dos-mitigation)
 9. [Roadmap](#9-roadmap)
-10. [Team](#10-team)
-11. [Conclusion](#11-conclusion)
-12. [Disclaimer](#12-disclaimer)
+10. [Conclusion](#11-conclusion)
+11. [Disclaimer](#12-disclaimer)
 
 ---
 
@@ -200,19 +199,14 @@ The **TabbyWomBatRaceBetting** smart contract is organized into modular componen
 
 ---
 
+
 ## 10. Conclusion
-
-**TabbyWomBatRaceBetting** aims to revolutionize the betting landscape by offering a decentralized, transparent, and secure platform for race enthusiasts and bettors. By leveraging blockchain technology and integrating advanced features like the trifecta jackpot with rollover capabilities and an enhanced claim system, we provide users with an engaging and trustworthy betting experience. Our commitment to security, transparency, and user satisfaction positions us as a leader in the decentralized betting ecosystem.
-
----
-
-## 7. Conclusion
 
 **TabbyWomBatRaceBetting** aims to revolutionize the betting landscape by offering a decentralized, transparent, and secure platform for race enthusiasts and bettors. By leveraging blockchain technology and integrating advanced features like trifecta jackpots and sponsor boosts, we provide users with an engaging and trustworthy betting experience. Our commitment to security, transparency, and user satisfaction positions us as a leader in the decentralized betting ecosystem.
 
 ---
 
-## 8. Disclaimer
+## 11. Disclaimer
 
 This whitepaper is for informational purposes only and does not constitute financial or legal advice. Investing in smart contracts and participating in betting carries inherent risks. Users should perform their own due diligence and consult with professionals before engaging with the **TabbyWomBatRaceBetting** platform. The team is not liable for any losses or damages incurred from using this contract.
 
