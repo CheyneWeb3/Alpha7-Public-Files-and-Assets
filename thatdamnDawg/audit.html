@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Attempt V2 Self Security and Functionality Audit Report</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #FFFFFF;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1a1a1a;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #333333;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+            color: #FFD700;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            color: #FFD700;
+        }
+        a {
+            color: #1E90FF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        table, th, td {
+            border: 1px solid #444444;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #333333;
+            margin: 40px 0;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        strong {
+            color: #FFFFFF;
+        }
+        code {
+            background-color: #333333;
+            padding: 2px 4px;
+            border-radius: 4px;
+            color: #FFD700;
+            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+        }
+        pre {
+            background-color: #333333;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Second Attempt V2 Self Security and Functionality Audit Report</h1>
+    </header>
+    <div class="container">
+        <hr>
+
+        <p><strong>Contract Name:</strong> TabbyWomBatRaceBetting<br>
+        <strong>Compiler Version:</strong> Solidity 0.8.28<br>
+        <strong>Audit Conducted By:</strong> C.Hayworth<br>
+        <strong>Date:</strong> 12/16/2024 10:51pm</p>
+
+        <h2>Table of Contents</h2>
+        <ol>
+            <li><a href="#1-introduction">Introduction</a></li>
+            <li><a href="#2-project-overview">Project Overview</a></li>
+            <li><a href="#3-key-features">Key Features</a>
+                <ol>
+                    <li><a href="#31-race-management">Race Management</a></li>
+                    <li><a href="#32-betting-mechanism">Betting Mechanism</a></li>
+                    <li><a href="#33-trifecta-jackpot-system">Trifecta Jackpot System</a></li>
+                    <li><a href="#34-sponsor-boosts">Sponsor Boosts</a></li>
+                    <li><a href="#35-claim-system">Claim System</a></li>
+                    <li><a href="#36-administrative-controls">Administrative Controls</a></li>
+                </ol>
+            </li>
+            <li><a href="#4-technical-architecture">Technical Architecture</a>
+                <ol>
+                    <li><a href="#41-smart-contract-structure">Smart Contract Structure</a></li>
+                    <li><a href="#42-security-measures">Security Measures</a></li>
+                    <li><a href="#43-price-feed-integration">Price Feed Integration</a></li>
+                </ol>
+            </li>
+            <li><a href="#5-economic-model">Economic Model</a>
+                <ol>
+                    <li><a href="#51-fund-allocation">Fund Allocation</a></li>
+                    <li><a href="#52-jackpot-distribution">Jackpot Distribution</a></li>
+                </ol>
+            </li>
+            <li><a href="#6-security-analysis">Security Analysis</a>
+                <ol>
+                    <li><a href="#61-reentrancy">Reentrancy</a></li>
+                    <li><a href="#62-access-control">Access Control</a></li>
+                    <li><a href="#63-arithmetic-operations">Arithmetic Operations</a></li>
+                    <li><a href="#64-ether-transfers">Ether Transfers</a></li>
+                    <li><a href="#65-race-conditions">Race Conditions</a></li>
+                    <li><a href="#66-data-visibility-and-mutability">Data Visibility and Mutability</a></li>
+                    <li><a href="#67-event-emissions">Event Emissions</a></li>
+                    <li><a href="#68-external-calls">External Calls</a></li>
+                    <li><a href="#69-denial-of-service-dos">Denial of Service (DoS)</a></li>
+                    <li><a href="#610-timestamp-dependency">Timestamp Dependency</a></li>
+                </ol>
+            </li>
+            <li><a href="#7-best-practices-compliance">Best Practices Compliance</a></li>
+            <li><a href="#8-gas-optimization">Gas Optimization</a></li>
+            <li><a href="#9-recommendations">Recommendations</a></li>
+            <li><a href="#10-conclusion">Conclusion</a></li>
+            <li><a href="#11-disclaimer">Disclaimer</a></li>
+        </ol>
+
+        <hr>
+
+        <h2 id="1-introduction">1. Introduction</h2>
+        <p>This audit report provides a comprehensive analysis of the <strong>TabbyWomBatRaceBetting</strong> smart contract, version 2.0. The contract facilitates decentralized betting on races with a trifecta jackpot system, incorporating features such as race management, betting mechanisms, sponsor boosts, and a robust claim system. The audit evaluates the contract's security, functionality, and adherence to best practices to ensure a secure and efficient deployment.</p>
+
+        <hr>
+
+        <h2 id="2-project-overview">2. Project Overview</h2>
+        <p><strong>TabbyWomBatRaceBetting</strong> is a decentralized betting platform built on the Ethereum blockchain. It allows users to place bets on various races, predict the top three contestants through a trifecta system, and participate in a growing jackpot that rolls over if unclaimed. The platform leverages Chainlink price feeds to ensure accurate USD to ETH conversions, providing a transparent and secure betting environment.</p>
+
+        <hr>
+
+        <h2 id="3-key-features">3. Key Features</h2>
+
+        <h3 id="31-race-management">3.1 Race Management</h3>
+        <ul>
+            <li><strong>Race Creation:</strong> Authorized admins or operators can create new races, specifying details such as race time, number of contestants, race name, sponsor information, and descriptions.</li>
+            <li><strong>Dynamic Contestants:</strong> Each race accommodates a customizable number of contestants, allowing flexibility for different racing events.</li>
+            <li><strong>Race Finalization:</strong> After a race concludes, admins or operators can finalize the race by declaring the top three winners, triggering the distribution of the betting pool.</li>
+        </ul>
+
+        <h3 id="32-betting-mechanism">3.2 Betting Mechanism</h3>
+        <ul>
+            <li><strong>USD-Based Betting:</strong> Users place bets using ETH, with the equivalent USD amount determined via Chainlink price feeds.</li>
+            <li><strong>Multiple Bets:</strong> Users can place multiple bets on different contestants within the same race.</li>
+            <li><strong>Exact Amount Requirement:</strong> To ensure fairness, users must send the exact ETH equivalent of the USD ticket price when placing a bet.</li>
+        </ul>
+
+        <h3 id="33-trifecta-jackpot-system">3.3 Trifecta Jackpot System</h3>
+        <ul>
+            <li><strong>Trifecta Bets:</strong> Users can place trifecta bets by selecting three unique contestants, predicting the top three finishers in any order.</li>
+            <li><strong>Jackpot Accumulation:</strong> 80% of trifecta entry fees contribute to the growing jackpot, while 20% is allocated to the treasury.</li>
+            <li><strong>Jackpot Rollover:</strong> If no trifecta bets are won in a round, the unclaimed jackpot rolls over to the next round, increasing the potential winnings.</li>
+            <li><strong>Winnings Distribution:</strong> Upon race finalization, users with matching trifecta bets can claim their share of the jackpot.</li>
+        </ul>
+
+        <h3 id="34-sponsor-boosts">3.4 Sponsor Boosts</h3>
+        <ul>
+            <li><strong>Additional Funding:</strong> Sponsors can boost a race's pool by contributing extra funds while the race is open, enhancing the potential winnings for participants.</li>
+            <li><strong>Transparency:</strong> All sponsor contributions are transparently recorded on the blockchain, ensuring accountability.</li>
+        </ul>
+
+        <h3 id="35-claim-system">3.5 Claim System</h3>
+        <ul>
+            <li><strong>Individual Claims:</strong> Users can claim their winnings from specific races they participated in.</li>
+            <li><strong>Aggregate Claims:</strong> Users can claim all their accumulated winnings across races and trifecta bets in a single transaction.</li>
+            <li><strong>Security:</strong> Claims are processed securely using smart contract functions protected against reentrancy attacks.</li>
+        </ul>
+
+        <h3 id="36-administrative-controls">3.6 Administrative Controls</h3>
+        <ul>
+            <li><strong>Role Management:</strong> Admins can transfer ownership, update operator and treasury addresses, set ticket and trifecta fees, and manage price feeds.</li>
+            <li><strong>Fund Recovery:</strong> Admins have the authority to recover native tokens from the contract to the treasury, ensuring fund management flexibility.</li>
+            <li><strong>Access Restrictions:</strong> Critical functions are restricted to authorized roles, preventing unauthorized access and potential abuse.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="4-technical-architecture">4. Technical Architecture</h2>
+
+        <h3 id="41-smart-contract-structure">4.1 Smart Contract Structure</h3>
+        <p>The <strong>TabbyWomBatRaceBetting</strong> smart contract is organized into modular components to handle various functionalities efficiently:</p>
+        <ul>
+            <li><strong>Enums & Structs:</strong> Define race statuses, race details, user bets, and trifecta bets for organized data management.</li>
+            <li><strong>State Variables:</strong> Manage administrative roles, financial metrics, race data, user statistics, and prize distributions.</li>
+            <li><strong>Modifiers:</strong> Enforce access control and validate race IDs to maintain contract integrity.</li>
+            <li><strong>Functions:</strong> Implement race creation, betting, finalization, trifecta management, claiming winnings, and administrative tasks.</li>
+            <li><strong>Events:</strong> Emit events for critical actions, facilitating off-chain tracking and transparency.</li>
+        </ul>
+
+        <h3 id="42-security-measures">4.2 Security Measures</h3>
+        <ul>
+            <li><strong>Reentrancy Protection:</strong> Inherited from the <code>ReentrancyGuard</code> contract, ensuring that sensitive functions cannot be exploited through reentrant calls.</li>
+            <li><strong>Access Control:</strong> Utilizes <code>onlyAdmin</code> and <code>onlyOperatorOrAdmin</code> modifiers to restrict function access to authorized roles.</li>
+            <li><strong>Safe Ether Transfers:</strong> Implements the <code>_safeTransfer</code> function using low-level <code>call</code> with proper error handling to ensure secure ETH transfers.</li>
+            <li><strong>Input Validation:</strong> Ensures that all inputs, such as race times, contestant numbers, and fee amounts, are valid and within expected ranges.</li>
+        </ul>
+
+        <h3 id="43-price-feed-integration">4.3 Price Feed Integration</h3>
+        <ul>
+            <li><strong>Chainlink AggregatorV3Interface:</strong> Integrates with Chainlink's price feeds to obtain the latest ETH/USD prices, enabling accurate conversion between USD-based fees and ETH.</li>
+            <li><strong>Fallback Mechanisms:</strong> Requires that price feeds are set and returns valid data to prevent the use of stale or incorrect price information.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="5-economic-model">5. Economic Model</h2>
+
+        <h3 id="51-fund-allocation">5.1 Fund Allocation</h3>
+        <ul>
+            <li><strong>Betting Pool:</strong> All user bets contribute to a race's total pool, which is distributed among winners upon race finalization.</li>
+            <li><strong>Treasury Allocation:</strong> A fixed percentage (20%) of each race's pool is allocated to the treasury, ensuring sustainable fund management and platform operations.</li>
+            <li><strong>Trifecta Entry Fees:</strong> 20% of trifecta entry fees are sent to the treasury, while the remaining 80% build the trifecta jackpot.</li>
+        </ul>
+
+        <h3 id="52-jackpot-distribution">5.2 Jackpot Distribution</h3>
+        <ul>
+            <li><strong>Race Winners:</strong>
+                <ul>
+                    <li><strong>First Place:</strong> Receives 40% of the total pool.</li>
+                    <li><strong>Second Place:</strong> Receives 25% of the total pool.</li>
+                    <li><strong>Third Place:</strong> Receives 15% of the total pool.</li>
+                    <li><strong>Treasury:</strong> Retains 20% of the total pool.</li>
+                </ul>
+            </li>
+            <li><strong>Trifecta Winners:</strong>
+                <ul>
+                    <li><strong>Jackpot Share:</strong> Upon correctly predicting the top three contestants, users can claim a share of the accumulated trifecta jackpot.</li>
+                    <li><strong>Rollover Mechanism:</strong> Unclaimed jackpots roll over to subsequent rounds, increasing the jackpot's value.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h2 id="6-security-analysis">6. Security Analysis</h2>
+
+        <h3 id="61-reentrancy">6.1 Reentrancy</h3>
+        <ul>
+            <li><strong>Protection Implemented:</strong> The contract inherits from <code>ReentrancyGuard</code>, utilizing the <code>nonReentrant</code> modifier to prevent reentrant calls on sensitive functions.</li>
+            <li><strong>Functions Protected:</strong>
+                <ul>
+                    <li><code>finalizeRace</code></li>
+                    <li><code>closeBetting</code></li>
+                    <li><code>placeBet</code></li>
+                    <li><code>claimWinnings</code></li>
+                    <li><code>claimAllWinnings</code></li>
+                    <li><code>sponsorBoost</code></li>
+                    <li><code>placeTrifectaBet</code></li>
+                    <li><code>finalizeTrifecta</code></li>
+                    <li><code>rolloverTrifectaJackpot</code></li>
+                    <li><code>initializeNewTrifectaRound</code></li>
+                    <li><code>claimTrifectaWinnings</code></li>
+                    <li><code>recoverNative</code></li>
+                </ul>
+            </li>
+            <li><strong>Assessment:</strong> Properly implemented reentrancy protection ensures that critical functions cannot be exploited via reentrant calls.</li>
+        </ul>
+
+        <h3 id="62-access-control">6.2 Access Control</h3>
+        <ul>
+            <li><strong>Roles Defined:</strong>
+                <ul>
+                    <li><strong>Admin:</strong> Has full control, including transferring ownership, updating operator and treasury addresses, setting prices, managing trifecta rounds, and recovering funds.</li>
+                    <li><strong>Operator:</strong> Can perform administrative tasks such as creating races, finalizing them, and managing trifecta rounds.</li>
+                </ul>
+            </li>
+            <li><strong>Modifiers:</strong>
+                <ul>
+                    <li><code>onlyAdmin</code></li>
+                    <li><code>onlyOperatorOrAdmin</code></li>
+                </ul>
+            </li>
+            <li><strong>Issues Identified:</strong>
+                <ul>
+                    <li><strong>Single Operator Limitation:</strong> Only one operator can exist at a time, which might pose scalability issues if multiple operators are desired.</li>
+                </ul>
+            </li>
+            <li><strong>Recommendations:</strong>
+                <ul>
+                    <li><strong>Implement Multiple Operators:</strong> Consider integrating role-based access control (e.g., OpenZeppelin's <code>AccessControl</code>) to allow multiple operators with different permissions.</li>
+                    <li><strong>Role Renouncement:</strong> Introduce functionality for the admin to renounce their role if necessary to enhance decentralization and security.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3 id="63-arithmetic-operations">6.3 Arithmetic Operations</h3>
+        <ul>
+            <li><strong>Solidity Version:</strong> 0.8.28 - benefits from built-in overflow and underflow checks.</li>
+            <li><strong>Assessment:</strong> No arithmetic vulnerabilities detected as Solidity 0.8+ inherently handles overflow/underflow scenarios securely.</li>
+        </ul>
+
+        <h3 id="64-ether-transfers">6.4 Ether Transfers</h3>
+        <ul>
+            <li><strong>Implementation:</strong> Ether transfers are handled via the <code>_safeTransfer</code> internal function using low-level <code>call</code>.</li>
+            <li><strong>Function:</strong>
+                <pre><code>function _safeTransfer(address payable to, uint256 amount) internal {
+    (bool sent, ) = to.call{value: amount}("");
+    require(sent, "Transfer failed");
+}</code></pre>
+            </li>
+            <li><strong>Assessment:</strong>
+                <ul>
+                    <li><strong>Pros:</strong> Using <code>call</code> is recommended over <code>transfer</code> or <code>send</code> for gas flexibility and compatibility with dynamic gas costs.</li>
+                    <li><strong>Cons:</strong> Relies on the recipient's fallback functions, which could potentially execute malicious code. However, with <code>nonReentrant</code> protection, reentrancy attacks are mitigated.</li>
+                </ul>
+            </li>
+            <li><strong>Recommendations:</strong>
+                <ul>
+                    <li><strong>Pull Over Push:</strong> Encourage a withdrawal pattern where users pull funds instead of the contract pushing funds. This minimizes reliance on the contract initiating transfers, reducing potential attack vectors.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3 id="65-race-conditions">6.5 Race Conditions</h3>
+        <ul>
+            <li><strong>Potential Issues:</strong>
+                <ul>
+                    <li><strong>Finalization Timing:</strong> Races can only be finalized if their status is <code>Pending</code>. Proper state management ensures that multiple finalizations are prevented.</li>
+                    <li><strong>Trifecta Finalization:</strong> The trifecta finalization relies on the race being finalized first.</li>
+                </ul>
+            </li>
+            <li><strong>Assessment:</strong> The use of <code>RaceStatus</code> enum and appropriate modifiers effectively manages race states, preventing inconsistent states and race conditions.</li>
+        </ul>
+
+        <h3 id="66-data-visibility-and-mutability">6.6 Data Visibility and Mutability</h3>
+        <ul>
+            <li><strong>Public Variables:</strong> Most state variables are marked <code>public</code>, allowing for automatic getter functions.</li>
+            <li><strong>Internal Functions:</strong> Critical functions like <code>_safeTransfer</code> and <code>_usdToNative</code> are marked <code>internal</code>, limiting their accessibility.</li>
+            <li><strong>Assessment:</strong> Proper use of visibility specifiers ensures data encapsulation and security, preventing unauthorized access and modifications.</li>
+        </ul>
+
+        <h3 id="67-event-emissions">6.7 Event Emissions</h3>
+        <ul>
+            <li><strong>Events Defined:</strong>
+                <ul>
+                    <li><code>RaceCreated</code></li>
+                    <li><code>RaceFinalized</code></li>
+                    <li><code>BetPlaced</code></li>
+                    <li><code>SponsorBoost</code></li>
+                    <li><code>WinningsClaimed</code></li>
+                    <li><code>TreasuryUpdated</code></li>
+                    <li><code>OwnershipTransferred</code></li>
+                    <li><code>OperatorUpdated</code></li>
+                    <li><code>TrifectaBetPlaced</code></li>
+                    <li><code>TrifectaWinnersDeclared</code></li>
+                    <li><code>TrifectaJackpotRolledOver</code></li>
+                    <li><code>TrifectaJackpotClaimed</code></li>
+                    <li><code>AllWinningsClaimed</code></li>
+                </ul>
+            </li>
+            <li><strong>Assessment:</strong>
+                <ul>
+                    <li><strong>Comprehensive Coverage:</strong> All critical state changes and actions emit corresponding events, facilitating off-chain monitoring and transparency.</li>
+                    <li><strong>Consistency:</strong> Events are consistently named and indexed appropriately for efficient querying.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3 id="68-external-calls">6.8 External Calls</h3>
+        <ul>
+            <li><strong>Usage of External Interfaces:</strong> Integrates with Chainlink's <code>AggregatorV3Interface</code> for price feeds.</li>
+            <li><strong>Assessment:</strong>
+                <ul>
+                    <li><strong>External Calls:</strong> Limited to price feed fetching, which is appropriately handled within view functions.</li>
+                    <li><strong>Potential Risks:</strong> Dependency on external price feeds means the contract's functionality is tied to the availability and accuracy of these feeds.</li>
+                </ul>
+            </li>
+            <li><strong>Recommendations:</strong>
+                <ul>
+                    <li><strong>Fallback Mechanisms:</strong> Implement fallback logic in case the price feed fails or returns stale data.</li>
+                    <li><strong>Access Control:</strong> Ensure only trusted price feeds are set by the admin to prevent manipulation.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3 id="69-denial-of-service-dos">6.9 Denial of Service (DoS)</h3>
+        <ul>
+            <li><strong>Potential Vectors:</strong>
+                <ul>
+                    <li><strong>Large Arrays:</strong> Functions like <code>getOpenRaces</code>, <code>getPendingRaces</code>, and <code>getFinalizedRaces</code> iterate over <code>nextRaceId</code>, which could grow indefinitely, leading to gas limit issues.</li>
+                    <li><strong>Unbounded Loops:</strong> Iterating over user bets or trifecta bets could lead to gas exhaustion if the data grows large.</li>
+                </ul>
+            </li>
+            <li><strong>Assessment:</strong> Unbounded loops pose significant DoS risks, especially as the number of races and bets increases.</li>
+            <li><strong>Recommendations:</strong>
+                <ul>
+                    <li><strong>Pagination:</strong> Implement pagination for functions that return large datasets to limit gas usage per transaction.</li>
+                    <li><strong>Off-chain Processing:</strong> Move extensive data processing off-chain and use events or off-chain indexing solutions (e.g., The Graph) to handle data retrieval.</li>
+                    <li><strong>Limit Data Retrieval:</strong> Restrict the number of items returned in a single call to prevent exceeding gas limits.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3 id="610-timestamp-dependency">6.10 Timestamp Dependency</h3>
+        <ul>
+            <li><strong>Usage of <code>block.timestamp</code>:</strong> Utilized to manage race timings and closing betting periods.</li>
+            <li><strong>Assessment:</strong> Minor, but dependent on miners' ability to manipulate timestamps within reasonable bounds (typically ±15 seconds).</li>
+            <li><strong>Recommendations:</strong> Acceptable usage for the contract's context, as precise timing beyond block-level accuracy is not critical. However, avoid relying on exact timestamps for critical logic that could be exploited by timestamp manipulation.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="7-best-practices-compliance">7. Best Practices Compliance</h2>
+        <ul>
+            <li><strong>Use of Solidity 0.8.28:</strong> Benefits from built-in overflow/underflow checks, reducing arithmetic vulnerabilities.</li>
+            <li><strong>Modifier Usage:</strong> Proper use of modifiers (<code>onlyAdmin</code>, <code>onlyOperatorOrAdmin</code>, <code>validRace</code>) to enforce access control and state validations.</li>
+            <li><strong>Struct Organization:</strong> Logical grouping of related data into structs enhances readability and maintainability.</li>
+            <li><strong>Event Logging:</strong> Comprehensive event logging facilitates transparency and off-chain monitoring.</li>
+            <li><strong>Function Visibility:</strong> Proper use of <code>external</code>, <code>public</code>, <code>internal</code>, and <code>view</code> functions ensures optimal access control and gas usage.</li>
+            <li><strong>Inheritance:</strong> Effective use of inheritance for <code>ReentrancyGuard</code> promotes modularity and reusability.</li>
+            <li><strong>Error Messages:</strong> Clear and descriptive error messages aid in debugging and provide meaningful feedback to users.</li>
+            <li><strong>Naming Conventions:</strong> Consistent and descriptive naming of variables, functions, and events enhances code readability.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="8-gas-optimization">8. Gas Optimization</h2>
+        <ul>
+            <li><strong>Looping Constructs:</strong>
+                <ul>
+                    <li><strong>Issue:</strong> Functions like <code>getOpenRaces</code>, <code>getPendingRaces</code>, and <code>getFinalizedRaces</code> involve looping over <code>nextRaceId</code>, which can become gas-intensive as the number of races increases.</li>
+                    <li><strong>Trifecta Claiming:</strong>
+                        <ul>
+                            <li><strong>Issue:</strong> The <code>claimTrifectaWinnings</code> function loops through a user's trifecta bets, which could be expensive if a user has numerous bets.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><strong>Recommendations:</strong>
+                <ul>
+                    <li><strong>Implement Pagination:</strong> For functions returning large arrays, implement pagination to limit gas usage per transaction.</li>
+                    <li><strong>Use Events for Data Retrieval:</strong> Leverage event logs for off-chain data indexing and retrieval, reducing the need for on-chain loops.</li>
+                    <li><strong>Batch Processing:</strong> Encourage batch processing of claims or limit the number of claims per transaction.</li>
+                </ul>
+            </li>
+            <li><strong>Storage Optimizations:</strong>
+                <ul>
+                    <li><strong>Packing Variables:</strong> Ensure that state variables are packed efficiently to minimize storage costs.</li>
+                    <li><strong>Use of <code>uint8</code> for Contestant Indices:</strong> Efficiently uses storage by limiting to <code>uint8</code> where appropriate.</li>
+                </ul>
+            </li>
+            <li><strong>Function Optimization:</strong>
+                <ul>
+                    <li><strong>Minimize State Writes:</strong> Reduce the number of state variable writes within loops to save gas.</li>
+                    <li><strong>Use Memory Arrays:</strong> Where possible, use memory arrays instead of storage arrays within functions to optimize gas usage.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h2 id="9-recommendations">9. Recommendations</h2>
+        <ol>
+            <li><strong>Access Control Enhancements:</strong>
+                <ul>
+                    <li><strong>Implement Multiple Operators:</strong> Integrate OpenZeppelin's <code>AccessControl</code> for more granular role management, allowing multiple operators with specific permissions.</li>
+                    <li><strong>Role Renouncement:</strong> Introduce functionality for the admin to renounce their role if necessary to enhance decentralization and security.</li>
+                </ul>
+            </li>
+            <li><strong>Mitigate DoS Risks:</strong>
+                <ul>
+                    <li><strong>Pagination:</strong> Implement pagination for functions that return large datasets to prevent gas exhaustion.</li>
+                    <li><strong>Off-chain Indexing:</strong> Utilize off-chain indexing solutions like The Graph to handle data-intensive operations outside the blockchain.</li>
+                </ul>
+            </li>
+            <li><strong>Enhance Trifecta Finalization:</strong>
+                <ul>
+                    <li><strong>Winning Trifecta Storage:</strong> Store the winning trifecta per round within the contract to allow efficient verification during claims.</li>
+                    <li><strong>Distribute Winnings Proportionally:</strong> Modify the trifecta winnings distribution to be proportional based on the number of winners to prevent multiple users from claiming the entire jackpot.</li>
+                </ul>
+            </li>
+            <li><strong>Implement Circuit Breaker:</strong>
+                <ul>
+                    <li><strong>Pause Functionality:</strong> Introduce a <code>pause</code> mechanism using OpenZeppelin's <code>Pausable</code> contract to halt operations in emergencies, adding an extra layer of security.</li>
+                </ul>
+            </li>
+            <li><strong>Price Feed Reliability:</strong>
+                <ul>
+                    <li><strong>Fallback Price Feeds:</strong> Allow setting multiple price feeds or implement fallback mechanisms to ensure price feed reliability and prevent disruptions.</li>
+                    <li><strong>Price Freshness:</strong> Implement checks to ensure the price feed is updated recently to prevent using stale data.</li>
+                </ul>
+            </li>
+            <li><strong>User Experience Improvements:</strong>
+                <ul>
+                    <li><strong>Front-End Integration:</strong> Develop a user-friendly front-end interface that interacts seamlessly with the contract, providing clear instructions and real-time feedback.</li>
+                    <li><strong>Comprehensive Documentation:</strong> Provide detailed documentation outlining how to interact with the contract, place bets, participate in trifectas, and claim winnings.</li>
+                </ul>
+            </li>
+            <li><strong>Regular Audits and Monitoring:</strong>
+                <ul>
+                    <li><strong>Continuous Security Audits:</strong> Schedule regular security audits to identify and address new vulnerabilities, ensuring the contract remains secure against emerging threats.</li>
+                    <li><strong>On-Chain Monitoring:</strong> Implement on-chain monitoring tools to track contract activities and detect suspicious behaviors.</li>
+                </ul>
+            </li>
+            <li><strong>Implement Withdrawal Pattern:</strong>
+                <ul>
+                    <li><strong>Encourage Pull Over Push:</strong> Modify the claim system to follow the withdrawal pattern, where users pull their funds instead of the contract pushing funds. This reduces reliance on the contract initiating transfers, mitigating potential attack vectors.</li>
+                </ul>
+            </li>
+            <li><strong>Optimize Gas Usage:</strong>
+                <ul>
+                    <li><strong>Refactor Loops:</strong> Refactor functions with large loops to minimize gas consumption, potentially using more efficient data structures or off-chain computations.</li>
+                    <li><strong>Utilize Efficient Data Structures:</strong> Explore alternative data structures that offer gas-efficient operations, especially for frequently accessed or modified data.</li>
+                </ul>
+            </li>
+            <li><strong>Enhance Security Against External Manipulation:</strong>
+                <ul>
+                    <li><strong>Input Sanitization:</strong> Ensure all external inputs are thoroughly validated to prevent injection attacks or unintended behavior.</li>
+                    <li><strong>Access Control for External Functions:</strong> Restrict functions that can be exploited through external calls, ensuring only authorized entities can invoke sensitive operations.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+
+        <h2 id="10-conclusion">10. Conclusion</h2>
+        <p>The <strong>TabbyWomBatRaceBetting</strong> smart contract version 2.0 presents a robust and feature-rich decentralized betting platform with an integrated trifecta jackpot system. The contract effectively incorporates essential security measures, including reentrancy protection and strict access controls. However, certain areas, particularly related to access control granularity, Denial of Service (DoS) vulnerabilities, and gas optimization, require enhancements to ensure scalability, security, and efficiency.</p>
+        <p>By implementing the recommended improvements, the contract can achieve higher security standards, enhanced user experience, and operational efficiency, positioning <strong>TabbyWomBatRaceBetting</strong> as a competitive player in the decentralized betting ecosystem.</p>
+        <p><strong>Overall Assessment:</strong> <em>Moderate Risk</em><br>
+        <strong>Severity:</strong> <em>Low to Medium</em> (pending implementation of recommended improvements)</p>
+
+        <hr>
+
+        <h2 id="11-disclaimer">11. Disclaimer</h2>
+        <p>This audit report is based on the provided contract code as of the date above. It does not constitute financial or legal advice. Deploying and interacting with smart contracts carries inherent risks. Users and developers should perform their own due diligence and consider seeking professional advice before deploying or interacting with this contract on the mainnet. The audit does not cover off-chain components or integrations beyond the provided contract code.</p>
+
+        <hr>
+
+        <h2>Final Notes</h2>
+        <p>This audit provides a thorough examination of the <strong>TabbyWomBatRaceBetting</strong> smart contract version 2.0, identifying potential vulnerabilities and offering actionable recommendations to enhance security, efficiency, and user experience. By addressing the highlighted areas and adhering to best practices, the contract is well-positioned for a secure and successful deployment within the decentralized betting landscape.</p>
+        <p>For further assistance, modifications, or inquiries related to this audit, please feel free to reach out.</p>
+    </div>
+</body>
+</html>
