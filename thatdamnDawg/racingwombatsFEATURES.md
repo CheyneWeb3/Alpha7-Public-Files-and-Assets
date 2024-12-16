@@ -130,7 +130,7 @@ The **TabbyWomBatRaceBetting** smart contract is organized into modular componen
 
 ## 8. Security Considerations
 
-### see development audit here https://github.com/ArielRin/Alpha7-Public-Files-and-Assets/blob/master/thatdamnDawg/v2racingwombatsTabbyContractAIAudit.md
+ see development audit here https://github.com/ArielRin/Alpha7-Public-Files-and-Assets/blob/master/thatdamnDawg/v2racingwombatsTabbyContractAIAudit.md
 
 
 ## 9. Roadmap
