@@ -180,6 +180,6 @@ This whitepaper is for informational purposes only and does not constitute finan
 ---
 
 
-# Final Notes
+## Final Notes
 
 This whitepaper provides a comprehensive overview of the **TabbyWomBatRaceBetting** smart contract, detailing its functionalities, security measures, economic model, and user interactions. By following the outlined recommendations and adhering to best practices, the platform is poised to offer a secure and engaging betting experience on the blockchain.
