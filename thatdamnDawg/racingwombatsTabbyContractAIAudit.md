@@ -1,4 +1,4 @@
-#  Initial Self Security and Functionality Audit Report Prior to External Audit
+#  Initial Self Security and Functionality Audit Report Prior to External Audit Process
 
 **Contract Name:** TabbyWomBatRaceBetting  
 **Compiler Version:** Solidity 0.8.28  
