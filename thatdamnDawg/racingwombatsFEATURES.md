@@ -130,28 +130,7 @@ The **TabbyWomBatRaceBetting** smart contract is organized into modular componen
 
 ## 8. Security Considerations
 
-### 8.1 Reentrancy Protection
-
-- **Implementation:** The contract inherits from `ReentrancyGuard` and utilizes the `nonReentrant` modifier on all state-modifying and ETH-transferring functions.
-- **Protected Functions:** Includes functions like `finalizeRace`, `placeBet`, `claimWinnings`, `claimAllWinnings`, `sponsorBoost`, `placeTrifectaBet`, `finalizeTrifecta`, `rolloverTrifectaJackpot`, and `recoverNative`.
-- **Assessment:** Properly implemented reentrancy protection ensures that critical functions cannot be exploited via reentrant calls.
-
-### 8.2 Access Control
-
-- **Roles Defined:**
-  - **Admin:** Has full control, including transferring ownership, updating operator and treasury addresses, setting prices, managing trifecta rounds, and recovering funds.
-  - **Operator:** Can perform administrative tasks such as creating races, finalizing them, and managing trifecta rounds.
-
-- **Modifiers:**
-  - `onlyAdmin`
-  - `onlyOperatorOrAdmin`
-
-- **Issues Identified:**
-  - **Single Operator Limitation:** Only one operator can exist at a time, which might pose scalability issues if multiple operators are desired.
-
-- **Recommendations:**
-  - **Implement Multiple Operators:** Consider integrating role-based access control (e.g., OpenZeppelin's `AccessControl`) to allow multiple operators with different permissions.
-  - **Role Renouncement:** Introduce functionality for the admin to renounce their role if necessary to enhance decentralization and security.
+### see development audit here https://github.com/ArielRin/Alpha7-Public-Files-and-Assets/blob/master/thatdamnDawg/v2racingwombatsTabbyContractAIAudit.md
 
 
 ## 9. Roadmap
