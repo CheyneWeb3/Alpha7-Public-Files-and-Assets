@@ -159,7 +159,7 @@ The **TabbyWomBatRaceBetting** smart contract is organized into modular componen
 | **Phase** | **Milestones** | **Timeline** |
 |-----------|-----------------|--------------|
 | **1.0**   | - Smart Contract Development<br>- Initial Testing<br>- Security Audit | Q4 2024 |
-| **2.0**   | - Deployment on Testnet<br>- Bug Fixes & Optimizations<br>- Community Building | Q1 2025 |
+| **2.0**   | - Deployment on Testnet<br>- Bug Fixes & Optimizations<br>- Community Building | Q4 2024 |
 | **3.0**   | - Mainnet Deployment<br>- Launch of Marketing Campaign<br>- Onboarding of First Users | Q1 2025 |
 | **4.0**   | - Integration with Additional Blockchains<br>- Introduction of New Betting Markets<br>- Continuous Security Audits | Q2 2025 |
 | **5.0**   | - Expansion to Other Blockchains<br>- Introduction of Additional Betting Markets | Q3 2025 |
